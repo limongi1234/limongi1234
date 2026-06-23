@@ -19,6 +19,9 @@ Com foco em projetos de **GovTech, Inteligência Artificial e Web3**.
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=binary&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -38,3 +41,5 @@ Com foco em projetos de **GovTech, Inteligência Artificial e Web3**.
 - **[DUOPEN](https://github.com/limongi1234/duopen-back-end)** 🏆 — plataforma GovTech de análise de obras públicas (FastAPI + ML) · *2º lugar nacional em hackathon*
 - **[ForumHub](https://github.com/limongi1234/ForumHub)** — API REST em Spring Boot com autenticação JWT
 - **[BlockChaim](https://github.com/limongi1234/BlockChaim)** — contratos inteligentes em Solidity (Web3)
+- **[RedeNeural](https://github.com/limongi1234/RedeNeural)** — implementação de rede neural em **MATLAB** (computação científica)
+- **[Simulador](https://github.com/limongi1234/Simulador)** — simulador desenvolvido em **C++ / Assembly**
