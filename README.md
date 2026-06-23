@@ -2,9 +2,9 @@
 <sub>Renato Lemos Limongi de Aguiar Moraes</sub>
 
 🎯 **Desenvolvedor Full-Stack** construindo aplicações com **Java/Spring, Python, .NET e JavaScript**.
-Atualmente com foco em projetos de **GovTech, Inteligência Artificial e Web3**.
+Com foco em projetos de **GovTech, Inteligência Artificial e Web3**.
 
-- 🔭 Trabalhando no **DUOPEN** — plataforma de análise de eficiência de obras públicas (Macaé/RJ)
+- 🏆 **2º lugar nacional** no hackathon **DUOPEN** — plataforma de análise de eficiência de obras públicas (Macaé/RJ)
 - 🌱 Aprofundando em **Machine Learning / NLP** e **arquitetura back-end**
 - 🤝 Aberto a colaborações em projetos open source
 - 📫 Onde me achar: [LinkedIn](https://linkedin.com/in/SEU_USUARIO) · [E-mail](mailto:SEU_EMAIL@exemplo.com)
@@ -35,6 +35,6 @@ Atualmente com foco em projetos de **GovTech, Inteligência Artificial e Web3**.
 
 ### 🚀 Projetos em destaque
 
-- **[DUOPEN](https://github.com/limongi1234/duopen-back-end)** — plataforma GovTech de análise de obras públicas (FastAPI + ML)
+- **[DUOPEN](https://github.com/limongi1234/duopen-back-end)** 🏆 — plataforma GovTech de análise de obras públicas (FastAPI + ML) · *2º lugar nacional em hackathon*
 - **[ForumHub](https://github.com/limongi1234/ForumHub)** — API REST em Spring Boot com autenticação JWT
 - **[BlockChaim](https://github.com/limongi1234/BlockChaim)** — contratos inteligentes em Solidity (Web3)
