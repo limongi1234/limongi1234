@@ -1,7 +1,7 @@
 # Olá, eu sou o Renato 👋
 <sub>Renato Lemos Limongi de Aguiar Moraes</sub>
 
-🎯 **Desenvolvedor Full-Stack** construindo aplicações com **Java/Spring, Python, .NET e JavaScript**.
+🎯 **Desenvolvedor Full-Stack** construindo aplicações com **Java/Spring, Python, .NET, JavaScript e Rust**.
 Com foco em projetos de **GovTech, Inteligência Artificial e Web3**.
 
 - 🏆 **2º lugar nacional** no hackathon **DUOPEN** — plataforma de análise de eficiência de obras públicas (Macaé/RJ)
@@ -21,6 +21,7 @@ Com foco em projetos de **GovTech, Inteligência Artificial e Web3**.
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=binary&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
